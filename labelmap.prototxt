@@ -1,0 +1,25 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "Chanos Chanos (dorsal)"
+  label: 2
+  display_name: "dorsal"
+}
+item {
+  name: "Chanos Chanos (pectoral)"
+  label: 3
+  display_name: "pectoral"
+}
+item {
+  name: "Chanos Chanos (head)"
+  label: 4
+  display_name: "head"
+}
+item {
+  name: "Chanos Chanos (tail)"
+  label: 5
+  display_name: "tail"
+}
