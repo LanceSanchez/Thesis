@@ -46,8 +46,8 @@ layer {
     }
   }
   data_param {
-    source: "trainval_lmdb/"
-    batch_size: 24
+    source: "Thesis/trainval_lmdb/"
+    batch_size: 2
     backend: LMDB
   }
   annotated_data_param {
