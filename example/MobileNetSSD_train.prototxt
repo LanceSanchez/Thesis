@@ -47,7 +47,7 @@ layer {
   }
   data_param {
     source: "Thesis/trainval_lmdb/"
-    batch_size: 10
+    batch_size: 24
     backend: LMDB
   }
   annotated_data_param {
@@ -2524,7 +2524,7 @@ layer {
     decay_mult: 0.0
   }
   convolution_param {
-    num_output: 15
+    num_output: 123
     kernel_size: 1
     weight_filler {
       type: "msra"
@@ -2634,7 +2634,7 @@ layer {
     decay_mult: 0.0
   }
   convolution_param {
-    num_output: 30
+    num_output: 246
     kernel_size: 1
     weight_filler {
       type: "msra"
@@ -2746,7 +2746,7 @@ layer {
     decay_mult: 0.0
   }
   convolution_param {
-    num_output: 30
+    num_output: 246
     kernel_size: 1
     weight_filler {
       type: "msra"
@@ -2858,7 +2858,7 @@ layer {
     decay_mult: 0.0
   }
   convolution_param {
-    num_output: 30
+    num_output: 246
     kernel_size: 1
     weight_filler {
       type: "msra"
@@ -2970,7 +2970,7 @@ layer {
     decay_mult: 0.0
   }
   convolution_param {
-    num_output: 30
+    num_output: 246
     kernel_size: 1
     weight_filler {
       type: "msra"
@@ -3082,7 +3082,7 @@ layer {
     decay_mult: 0.0
   }
   convolution_param {
-    num_output: 30
+    num_output: 246
     kernel_size: 1
     weight_filler {
       type: "msra"
@@ -3198,7 +3198,7 @@ layer {
     loc_loss_type: SMOOTH_L1
     conf_loss_type: SOFTMAX
     loc_weight: 1.0
-    num_classes: 5
+    num_classes: 41
     share_location: true
     match_type: PER_PREDICTION
     overlap_threshold: 0.5

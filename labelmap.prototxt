@@ -5,21 +5,201 @@ item {
 }
 item {
   name: "Chanos Chanos (dorsal)"
-  label: 2
-  display_name: "dorsal"
+  label: 1
+  display_name: "Chanos Chanos (dorsal)"
 }
 item {
   name: "Chanos Chanos (pectoral)"
-  label: 3
-  display_name: "pectoral"
+  label: 2
+  display_name: "Chanos Chanos (pectoral)"
 }
 item {
   name: "Chanos Chanos (head)"
-  label: 4
-  display_name: "head"
+  label: 3
+  display_name: "Chanos Chanos (head)"
 }
 item {
   name: "Chanos Chanos (tail)"
+  label: 4
+  display_name: "Chanos Chanos (tail)"
+}
+item {
+  name: "Chanos Chanos (body)"
   label: 5
-  display_name: "tail"
+  display_name: "Chanos Chanos (body)"
+}
+item {
+  name: "Terapon jarbua (body)"
+  label: 6
+  display_name: "Terapon jarbua (body)"
+}
+item {
+  name: "Terapon jarbua (dorsal)"
+  label: 7
+  display_name: "Terapon jarbua (dorsal)"
+}
+item {
+  name: "Terapon jarbua (pectoral)"
+  label: 8
+  display_name: "Terapon jarbua (pectoral)"
+}
+item {
+  name: "Terapon jarbua (head)"
+  label: 9
+  display_name: "Terapon jarbua (head)"
+}
+item {
+  name: "Terapon jarbua (tail)"
+  label: 10
+  display_name: "Terapon jarbua (tail)"
+}
+item {
+  name: "Siganus javus (body)"
+  label: 11
+  display_name: "Siganus javus (body)"
+}
+item {
+  name: "Siganus javus (dorsal)"
+  label: 12
+  display_name: "Siganus javus (dorsal)"
+}
+item {
+  name: "Siganus javus (pectoral)"
+  label: 13
+  display_name: "Siganus javus (pectoral)"
+}
+item {
+  name: "Siganus javus (head)"
+  label: 14
+  display_name: "Siganus javus (head)"
+}
+item {
+  name: "Siganus javus (tail)"
+  label: 15
+  display_name: "Siganus javus (tail)"
+}
+item {
+  name: "Selaroides leptokepis (body)"
+  label: 16
+  display_name: "Selaroides leptokepis (body)"
+}
+item {
+  name: "Selaroides leptokepis (pectoral)"
+  label: 17
+  display_name: "Selaroides leptokepis (pectoral)"
+}
+item {
+  name: "Selaroides leptokepis (head)"
+  label: 18
+  display_name: "Selaroides leptokepis (head)"
+}
+item {
+  name: "Selaroides leptokepis (tail)"
+  label: 19
+  display_name: "Selaroides leptokepis (tail)"
+}
+item {
+  name: "Acanthurus bleekeri (body)"
+  label: 20
+  display_name: "Acanthurus bleekeri (body)"
+}
+item {
+  name: "Acanthurus bleekeri (dorsal)"
+  label: 21
+  display_name: "Acanthurus bleekeri (dorsal)"
+}
+item {
+  name: "Acanthurus bleekeri (pectoral)"
+  label: 22
+  display_name: "Acanthurus bleekeri (pectoral)"
+}
+item {
+  name: "Acanthurus bleekeri (head)"
+  label: 23
+  display_name: "Acanthurus bleekeri (head)"
+}
+item {
+  name: "Acanthurus bleekeri (tail)"
+  label: 24
+  display_name: "Acanthurus bleekeri (tail)"
+}
+item {
+  name: "Selar crumenophthalmus (body)"
+  label: 25
+  display_name: "Selar crumenophthalmus (body)"
+}
+item {
+  name: "Selar crumenophthalmus (pectoral)"
+  label: 26
+  display_name: "Selar crumenophthalmus (pectoral)"
+}
+item {
+  name: "Selar crumenophthalmus (head)"
+  label: 27
+  display_name: "Selar crumenophthalmus (head)"
+}
+item {
+  name: "Selar crumenophthalmus (tail)"
+  label: 28
+  display_name: "Selar crumenophthalmus (tail)"
+}
+item {
+  name: "Auxis rochie (body)"
+  label: 29
+  display_name: "Auxis rochie (body)"
+}
+item {
+  name: "Auxis rochie (pectoral)"
+  label: 30
+  display_name: "Auxis rochie (pectoral)"
+}
+item {
+  name: "Auxis rochie (head)"
+  label: 31
+  display_name: "Auxis rochie (head)"
+}
+item {
+  name: "Auxis rochie (tail)"
+  label: 32
+  display_name: "Auxis rochie (tail)"
+}
+item {
+  name: "Decapterus macrosoma (body)"
+  label: 33
+  display_name: "Decapterus macrosoma (body)"
+}
+item {
+  name: "Decapterus macrosoma (pectoral)"
+  label: 34
+  display_name: "Decapterus macrosoma (pectoral)"
+}
+item {
+  name: "Decapterus macrosoma (head)"
+  label: 35
+  display_name: "Decapterus macrosoma (head)"
+}
+item {
+  name: "Decapterus macrosoma (tail)"
+  label: 36
+  display_name: "Decapterus macrosoma (tail)"
+}
+item {
+  name: "Sardinella lemuru (body)"
+  label: 37
+  display_name: "Sardinella lemuru (body)"
+}
+item {
+  name: "Sardinella lemuru (pectoral)"
+  label: 38
+  display_name: "Sardinella lemuru (pectoral)"
+}
+item {
+  name: "Sardinella lemuru (head)"
+  label: 39
+  display_name: "Sardinella lemuru (head)"
+}
+item {
+  name: "Sardinella lemuru (tail)"
+  label: 40
+  display_name: "Sardinella lemuru (tail)"
 }
