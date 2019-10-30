@@ -9,7 +9,7 @@ lr_policy: "multistep"
 gamma: 0.5
 weight_decay: 0.00005
 snapshot: 0
-snapshot_prefix: "/content/drive/Thesis/snapshot/"
+snapshot_prefix: "/content/drive/Thesis/snapshot/mobilenet"
 solver_mode: GPU
 debug_info: false
 snapshot_after_train: false
